@@ -1,4 +1,4 @@
-# SQL-HR-Attrition-Data-Analysis-project
+# IBM HR ATRRITION DATA ANALYSIS PROJECT WITH SQL
 ![HR picture](https://github.com/alashaym/SQL-HR-Attrition-Data-Analysis-project/blob/main/Employee-Attrition.jpg)
 
 ## overview
