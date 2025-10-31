@@ -1,2 +1,2 @@
 # SQL-HR-Attrition-Data-Analysis-project
-![HR picture]()
+![HR picture](SQL-HR-Attrition-Data-Analysis-project/Employee-Attrition.jpg)
