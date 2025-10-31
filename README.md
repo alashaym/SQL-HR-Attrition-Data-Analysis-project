@@ -1,5 +1,5 @@
 # SQL-HR-Attrition-Data-Analysis-project
-![HR picture]([SQL-HR-Attrition-Data-Analysis-project/Employee-Attrition.jpg](https://github.com/alashaym/SQL-HR-Attrition-Data-Analysis-project/blob/main/Employee-Attrition.jpg))
+![HR picture](https://github.com/alashaym/SQL-HR-Attrition-Data-Analysis-project/blob/main/Employee-Attrition.jpg)
 
 ## overview
 The objective of this project is to extract valuable insights about IBM HR attrition data using MYSQL data analysis techniques. The purpose of this project is to identify key factors that have contributed to employee turnover rates. Using problem-solving skills and utilizing SQL queries, factors such as Martial Status, compensation and Job Roles have been analyzed to determine what factors are correlated with increased tunrover rates. This project demonstrates how data-driven insights can support strategic HR decision-making and improve employee retention
