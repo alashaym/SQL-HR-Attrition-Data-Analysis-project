@@ -62,7 +62,7 @@ group by Department
 order by attrition_rate desc
 limit 3;
 ```
-#### objective: determine which departments experience the highest rates of attrition 
+#### objective: determine which departments experience the highest rates of attrition. Attrition rates were evenly distributed accross departments.
 
 ### 2. Of those who left the company, what percentage of those had a wage less than the average of wages by their department?
 ```sql
@@ -81,7 +81,7 @@ left join department_counts d
 on b.department = d.department
 order by percentage_attrionedEmp_less_than_average desc;
 ```
-#### objective: determine if wages have an impact on rates of attrition
+#### objective: determine if wages have an impact on rates of attrition. Those who were not attritioned actually had, on average, lower salaries. This could be attributed to that low percentage of attritioned employees.
 
 ### 3. what’s the avergae tenure of those who left and those who are currently working? 
 ```sql
